@@ -1,0 +1,7 @@
+{
+  "repository": {
+    "description": "F5 XC NGINX integration and configuration",
+    "homepage": "https://f5xc-salesdemos.github.io/nginx/"
+  },
+  "topics": ["f5xc"]
+}
